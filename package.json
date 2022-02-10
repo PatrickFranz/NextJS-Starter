@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "@zeit/next-sass": "^1.0.1",
-    "node-sass": "^4.11.0"
+    "node-sass": "^7.0.0"
   }
 }
